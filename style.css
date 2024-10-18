@@ -1,14 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
   list-style: none;
   text-decoration: none;
+  box-sizing: border-box;
+  font-family: "Noto Sans", sans-serif;
+}
+
+body p {
+  font-size: 20px;
+  font-weight: 400;
 }
 
 header {
+  height: 118px;
+  display: flex;
+  padding: 30px;
+  align-items: center;
+  text-transform: uppercase;
+  background-color: #FF69B4;
+  justify-content: space-between;
+}
+
+header .logo {
   display: flex;
   align-items: center;
-  justify-content: space-around;
-  background-color: #ff69b4;
+  justify-content: space-between;
+}
+
+header .logo p {
+  color: #FFFFFF;
+  font-size: 28px;
+  font-weight: 300;
+}
+
+header .logo img {
+  width: 80px;
+  height: 80px;
+  margin-left: 20px;
+  margin-right: 40px;
+}
+
+.menu ul {
+  width: 800px;
+  display: flex;
+  padding: 40px;
+  font-size: 28px;
+  font-weight: 300;
+  margin-right: 20px;
+  justify-content: space-between;
+}
+
+.menu ul a {
+  color: #FFFFFF;
+}
+
+.outrosa1 {
+  display: flex;
+  padding: 15px;
+  align-items: center;
+  background-color: #FFD9EC;
+  justify-content: space-between;
+}
+
+.outrosa1 .texto {
+  width: 900px;
+  margin-left: 40px;
+}
+
+.outrosa1 img {
+  width: 365px;
+  height: 355px;
+  margin-right: 100px;
+}
+
+.outrosa2 {
+  display: flex;
+  padding: 15px;
+  align-items: center;
+  background-color: #FF69B4;
+  justify-content: space-between;
+}
+
+.outrosa2 .texto {
+  width: 800px;
+  margin-right: 100px;
+}
+
+.outrosa2 img {
+  width: 421px;
+  height: 234px;
+  margin-left: 40px;
+}
+
+.recomendacoes {
+  height: 426px;
+  display: flex;
+  align-items: center;
+  background-color: #FFD9EC;
+}
+
+.recomendacoes ul {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.recomendacoes img {
+  height: 250px;
+  margin: 60px;
+}
+
+footer {
+  height: 143px;
+  display: flex;
+  background-color: #FF69B4;
+}
+
+.icones {
+  margin: 40px;
+  display: flex;
+}
+
+.icones ul {
+  display: flex;
+  padding-inline: 10px;
+  justify-content: space-between;
+}
+
+.icones ul img {
+  height: 56px;
+}
+
+.infos .desc {
+  width: 800px;
+  margin: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+.infos p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.infos .fita {
+  height: 109px;
+  align-items: end;
+  justify-content: space-between;
 }/*# sourceMappingURL=style.css.map */
