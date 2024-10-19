@@ -88,6 +88,10 @@ header .logo img {
     margin: 0 100px;
 }
 
+.outrosa1 img:hover {
+    transform: scale(1.025);
+}
+
 // MAIN PARTE 2
 
 .outrosa2 {
@@ -110,6 +114,10 @@ header .logo img {
     margin-left: 40px;
 }
 
+.outrosa2 img:hover {
+    transform: scale(1.025);
+}
+
 // MAIN DICAS
 
 .recomendacoes {
@@ -128,6 +136,10 @@ header .logo img {
 .recomendacoes img {
     height: 250px;
     margin: 60px;
+}
+
+.recomendacoes img:hover {
+    transform: scale(1.025);
 }
 
 //FOOTER GERAL
@@ -162,7 +174,7 @@ footer {
 }
 
 .icones ul li img:hover {
-    transform: scale(1.25);
+    transform: scale(1.025);
 }
 
 // FOOTER INFORMAÇÕES
@@ -200,4 +212,8 @@ footer {
     width: 105px;
     height: 109px;
     position: absolute; 
+}
+
+.infos .fita:hover {
+    transform: scale(1.025);    
 }
