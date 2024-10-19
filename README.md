@@ -31,4 +31,4 @@ Agradeço à Fernanda Corrêa e João Pedro Belo por seus valiosos ensinamentos 
 
 ### 🎢 Links
 * Figma: https://www.figma.com/design/uZ6M7IREptS0fR2RYHZOMp/Desafio-2-Empower?node-id=0-1&node-type=canvas&t=v7x0WTZECtvcBPLy-0
-* Deploy no Vercel: https://outubro-rosa-jyhqb0y4x-lorena-kailany-fernandes-nunes-projects.vercel.app
+* Deploy no Vercel: https://outubro-rosa-vnw-umber.vercel.app/
