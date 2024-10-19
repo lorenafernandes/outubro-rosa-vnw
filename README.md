@@ -28,3 +28,7 @@ Este projeto foi submetido no dia 18/10/2024, dentro do prazo estipulado pelos p
 
 ## 📢 Agradecimentos
 Agradeço à Fernanda Corrêa e João Pedro Belo por seus valiosos ensinamentos e pela oportunidade de aprender e contribuir com uma causa tão relevante. Que continuemos a apoiar o Outubro Rosa e a promover a conscientização sobre o câncer de mama. Juntos, podemos salvar vidas! 🎀💖
+
+### 🎢 Links
+* Figma: https://www.figma.com/design/uZ6M7IREptS0fR2RYHZOMp/Desafio-2-Empower?node-id=0-1&node-type=canvas&t=v7x0WTZECtvcBPLy-0
+* Deploy no Vercel: https://outubro-rosa-jyhqb0y4x-lorena-kailany-fernandes-nunes-projects.vercel.app
